@@ -1,4 +1,4 @@
-This folder contains files related to the "Send-receive communication asymmetry in brain networks: Inferring directionality of neural signalling from undirected structural connectomes" manuscript.
+This folder contains files related to the "Inferring neural signalling directionality from undirected structural connectomes" manuscript.
 
 Folder: MATLAB
 Desc: Code (.m) and data (.mar) MATLAB files.
