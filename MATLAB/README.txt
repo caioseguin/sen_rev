@@ -1,4 +1,4 @@
-This folder contains MATLAB .m (code) and .mat (data) files related to the "Send-receive communication asymmetry in brain networks: Inferring directionality of neural signalling from undirected structural connectomes" manuscript. The code requires a recent (>2010) version of MATLAB and has been rested on version 2016a. Function to compute network communication measures can also be found as part of the Brain Connectivity Toolbox.
+This folder contains MATLAB .m (code) and .mat (data) files related to the "Inferring neural signalling directionality from undirected structural connectomes" manuscript. The code requires a recent (>2010) version of MATLAB and has been rested on version 2016a. Function to compute network communication measures can also be found as part of the Brain Connectivity Toolbox.
 
 File: sen_rev_asy_ttest.m
 Desc: Function use to compute pairwise send-receive communication asymmetry
