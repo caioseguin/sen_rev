@@ -1,8 +1,6 @@
 
 % This file provides data descriptions and analyses demos relevant to the
-% manuscript: ''Send-receive communication asymmetry in brain networks:
-% Inferring directionallity of neural signalling from undirected
-% connectomes''.
+% manuscript: "Inferring neural signalling directionality from undirected structural connectomes".
 
 % Caio Seguin, Adeel Razi, Andrew Zalesky
 % Feb 2019
